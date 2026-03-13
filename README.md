@@ -1,1 +1,3 @@
-# -goit-markup-hw-04
+# goit-markup-hw-04
+
+GoIT HTML+CSS homework #04
